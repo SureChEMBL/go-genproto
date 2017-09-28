@@ -1,0 +1,18 @@
+golang-google-genproto (0.0~git20170731.0.09f6ed2-1) unstable; urgency=medium
+
+  [ Alexandre Viau ]
+  * Team upload.
+  * New upstream version.
+  * Testsuite: autopkgtest-pkg-go.
+  * Bump Standards-Version to 4.0.0.
+
+  [ Martín Ferrari ]
+  * Add missing versioned build-dependency on protobuf-compiler.
+
+ -- Alexandre Viau <aviau@debian.org>  Sun, 13 Aug 2017 01:01:44 -0400
+
+golang-google-genproto (0.0~git20161115.08f135d-1) unstable; urgency=medium
+
+  * Initial release (Closes: 846402)
+
+ -- Martín Ferrari <tincho@debian.org>  Thu, 01 Dec 2016 01:06:26 +0000
